@@ -7,6 +7,14 @@
         <deathMessage>{0} has been over-fed to death.</deathMessage>
         <workerClass>NyanDark40k.DamageWorker_ForceFeed</workerClass>
 
+        <modExtensions>
+            <li Class="Core40k.DefModExtension_TargetBodyParts">
+                <bodyParts>
+                    <li>Jaw</li>
+                </bodyParts>
+            </li>
+        </modExtensions>
+
         <hediff>Crush</hediff>
         <hediffSkin>Bruise</hediffSkin>
         <hediffSolid>Crack</hediffSolid>

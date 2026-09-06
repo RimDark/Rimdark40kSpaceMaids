@@ -13,9 +13,4 @@ public class DamageWorker_ForceFeed : DamageWorker_AddInjury
 
         return base.Apply(dinfo, thing);
     }
-
-    protected override BodyPartRecord ChooseHitPart(DamageInfo dinfo, Pawn pawn)
-    {
-        return pawn.health.hediffSet.GetBodyPartRecord(NyanDark40kDefOf.Jaw) ?? base.ChooseHitPart(dinfo, pawn);
-    }
 }

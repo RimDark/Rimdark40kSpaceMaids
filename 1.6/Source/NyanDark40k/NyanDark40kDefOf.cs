@@ -6,7 +6,6 @@ namespace NyanDark40k;
 [DefOf]
 public static class NyanDark40kDefOf
 {
-    public static BodyPartDef Jaw;
     public static StatDef BEWH_Cuteness;
     
     public static ThoughtDef BEWH_NekonaHandFed;
