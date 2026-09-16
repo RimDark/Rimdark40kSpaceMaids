@@ -38,6 +38,14 @@
         <incompatibleDecorations>
             <li>BEWH_DecoCatBells_2</li>
         </incompatibleDecorations>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>3</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <Core40k.ExtraDecorationDef>
@@ -80,6 +88,14 @@
             <li>BEWH_DecoPaletteGoldPastel</li>
         </availablePresets>
         <decorationType>BEWH_DecoCategory_Misc</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>3</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Bonnet -->
@@ -130,6 +146,14 @@
         <shaderType>Cutout</shaderType>
         <defaultColour>(255, 237, 251)</defaultColour>
         <decorationType>BEWH_DecoCategory_Fabrics</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>3</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Head bow -->
@@ -172,5 +196,13 @@
             <li>BEWH_DecoPaletteGoldPastel</li>
         </availablePresets>
         <decorationType>BEWH_DecoCategory_Fabrics</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>2</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 </Defs>

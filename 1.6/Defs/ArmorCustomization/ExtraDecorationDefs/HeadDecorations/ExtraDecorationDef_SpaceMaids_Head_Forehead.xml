@@ -50,6 +50,14 @@
             <li>BEWH_Deco_MkXApothecarySymbol</li>
             <li>BEWH_DecoSkull</li>
         </incompatibleDecorations>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>1</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <Core40k.ExtraDecorationDef>
@@ -99,6 +107,14 @@
             <li>BEWH_Deco_MkXApothecarySymbol</li>
             <li>BEWH_DecoSkull</li>
         </incompatibleDecorations>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>1</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
 </Defs>

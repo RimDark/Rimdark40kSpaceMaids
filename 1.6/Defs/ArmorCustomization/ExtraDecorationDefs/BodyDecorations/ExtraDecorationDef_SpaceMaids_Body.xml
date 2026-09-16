@@ -49,6 +49,14 @@
         <defaultColour>(255, 237, 251)</defaultColour>
         <defaultColourTwo>(202, 90, 132)</defaultColourTwo>
         <decorationType>BEWH_DecoCategory_Fabrics</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>2</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <Core40k.MaskDef ParentName="BEWH_MaskDef_ExtraDecoration">
@@ -123,6 +131,14 @@
         <colourable>true</colourable>
         <defaultColour>(249, 132, 184)</defaultColour>
         <decorationType>BEWH_DecoCategory_Fabrics</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>2</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Belt Bow -->
@@ -172,6 +188,14 @@
         <defaultColour>(202, 90, 132)</defaultColour>
         <defaultColourTwo>(252, 196, 139)</defaultColourTwo>
         <decorationType>BEWH_DecoCategory_Fabrics</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>2</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <Core40k.ExtraDecorationDef>
@@ -220,6 +244,14 @@
         <defaultColour>(202, 90, 132)</defaultColour>
         <defaultColourTwo>(252, 196, 139)</defaultColourTwo>
         <decorationType>BEWH_DecoCategory_Fabrics</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>2</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Backpack Bow -->
@@ -269,6 +301,14 @@
         <colourable>true</colourable>
         <defaultColour>(255, 237, 251)</defaultColour>
         <decorationType>BEWH_DecoCategory_Fabrics</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>2</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Chest Neko -->
@@ -312,6 +352,14 @@
         <incompatibleDecorations>
             <li>BEWH_Deco_ChestAquila</li>
         </incompatibleDecorations>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>2</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Pauldron Bows 1 -->
@@ -357,6 +405,14 @@
         <colourable>true</colourable>
         <defaultColour>(202, 90, 132)</defaultColour>
         <decorationType>BEWH_DecoCategory_Shoulder</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>2</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Pauldron Bows 2 -->
@@ -402,6 +458,14 @@
         <colourable>true</colourable>
         <defaultColour>(255, 237, 251)</defaultColour>
         <decorationType>BEWH_DecoCategory_Shoulder</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>3</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Pauldron Ruffles -->
@@ -447,6 +511,14 @@
         <colourable>true</colourable>
         <defaultColour>(255, 237, 251)</defaultColour>
         <decorationType>BEWH_DecoCategory_Shoulder</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>2</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
 </Defs>

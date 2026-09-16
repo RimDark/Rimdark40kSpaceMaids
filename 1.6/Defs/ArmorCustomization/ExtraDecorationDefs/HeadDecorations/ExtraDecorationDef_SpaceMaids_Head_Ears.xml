@@ -39,6 +39,14 @@
         <shaderType>Cutout</shaderType>
         <useParentColourAsDefault>true</useParentColourAsDefault>
         <decorationType>BEWH_DecoCategory_Misc</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>4</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Cat Ears Chaplain -->
@@ -77,5 +85,13 @@
         <colourable>false</colourable>
         <shaderType>Cutout</shaderType>
         <decorationType>BEWH_DecoCategory_Misc</decorationType>
+        <pawnStatOffsets>
+            <BEWH_Cuteness>4</BEWH_Cuteness>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 </Defs>

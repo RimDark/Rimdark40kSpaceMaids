@@ -34,6 +34,14 @@
         <shaderType>Cutout</shaderType>
         <useParentColourAsDefault>true</useParentColourAsDefault>
         <decorationType>BEWH_DecoCategory_Misc</decorationType>
+        <pawnStatOffsets>
+            <PawnBeauty>1</PawnBeauty>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Eyeliner MkX-->
@@ -69,6 +77,14 @@
         <shaderType>Cutout</shaderType>
         <useParentColourAsDefault>true</useParentColourAsDefault>
         <decorationType>BEWH_DecoCategory_Misc</decorationType>
+        <pawnStatOffsets>
+            <PawnBeauty>1</PawnBeauty>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
     <!-- Eyeliner Chaplain -->
@@ -103,5 +119,13 @@
         <colourable>false</colourable>
         <shaderType>Cutout</shaderType>
         <decorationType>BEWH_DecoCategory_Misc</decorationType>
+        <pawnStatOffsets>
+            <PawnBeauty>1</PawnBeauty>
+        </pawnStatOffsets>
+        <cost>
+            <Cloth>20</Cloth>
+            <ComponentIndustrial>1</ComponentIndustrial>
+        </cost>
+        <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 </Defs>
