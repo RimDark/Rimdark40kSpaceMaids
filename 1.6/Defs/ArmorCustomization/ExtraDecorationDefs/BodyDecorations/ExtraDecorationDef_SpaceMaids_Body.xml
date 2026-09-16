@@ -278,7 +278,7 @@
         <description>...</description>
         <iconPath>UI/Decoration/Icons/Armor/BEWH_Deco_ChestNeko_icon</iconPath>
         <drawnTextureIconPath>Things/Decorations/Armor/Common/BEWH_Deco_ChestNeko</drawnTextureIconPath>
-        <drawSize>(0.25, 0.25)</drawSize>
+        <drawSize>(0.5, 0.5)</drawSize>
         <sortOrder>2.15</sortOrder>
         <defaultShowRotation>
             <li>South</li>
@@ -292,15 +292,12 @@
         <drawData>
             <dataSouth>
                 <layer>43</layer>
-                <offset>(0, 0, -0.087)</offset>
             </dataSouth>
             <dataEast>
                 <layer>43</layer>
-                <offset>(0.265, 0, -0.087)</offset>
             </dataEast>
             <dataWest>
                 <layer>43</layer>
-                <offset>(-0.265, 0, -0.087)</offset>
             </dataWest>
         </drawData>
         <shaderType>Cutout</shaderType>
@@ -312,6 +309,9 @@
         <colourable>true</colourable>
         <defaultColour>(252, 196, 139)</defaultColour>
         <decorationType>BEWH_DecoCategory_Insignia</decorationType>
+        <incompatibleDecorations>
+            <li>BEWH_Deco_ChestAquila</li>
+        </incompatibleDecorations>
     </Core40k.ExtraDecorationDef>
 
     <!-- Pauldron Bows 1 -->
