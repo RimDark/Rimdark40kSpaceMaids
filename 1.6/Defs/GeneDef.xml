@@ -36,7 +36,7 @@
                     <li>Repair</li>
                     <li>DoBill</li>
                 </jobDefs>
-                <fillPerJob>0.01</fillPerJob>
+                <fillPerJob>0.02</fillPerJob>
                 <referenceJobTicks>600</referenceJobTicks>
                 <durationFactorRange>0.25~2</durationFactorRange>
             </li>
