@@ -34,13 +34,10 @@
         <shaderType>Cutout</shaderType>
         <useParentColourAsDefault>true</useParentColourAsDefault>
         <decorationType>BEWH_DecoCategory_Misc</decorationType>
+        <isUpgrade>false</isUpgrade>
         <pawnStatOffsets>
             <PawnBeauty>1</PawnBeauty>
         </pawnStatOffsets>
-        <cost>
-            <Cloth>20</Cloth>
-            <ComponentIndustrial>1</ComponentIndustrial>
-        </cost>
         <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
@@ -77,13 +74,10 @@
         <shaderType>Cutout</shaderType>
         <useParentColourAsDefault>true</useParentColourAsDefault>
         <decorationType>BEWH_DecoCategory_Misc</decorationType>
+        <isUpgrade>false</isUpgrade>
         <pawnStatOffsets>
             <PawnBeauty>1</PawnBeauty>
         </pawnStatOffsets>
-        <cost>
-            <Cloth>20</Cloth>
-            <ComponentIndustrial>1</ComponentIndustrial>
-        </cost>
         <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 
@@ -119,13 +113,10 @@
         <colourable>false</colourable>
         <shaderType>Cutout</shaderType>
         <decorationType>BEWH_DecoCategory_Misc</decorationType>
+        <isUpgrade>false</isUpgrade>
         <pawnStatOffsets>
             <PawnBeauty>1</PawnBeauty>
         </pawnStatOffsets>
-        <cost>
-            <Cloth>20</Cloth>
-            <ComponentIndustrial>1</ComponentIndustrial>
-        </cost>
         <workAmount>400</workAmount>
     </Core40k.ExtraDecorationDef>
 </Defs>
