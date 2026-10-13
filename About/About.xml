@@ -2,9 +2,10 @@
 <ModMetaData>
 	<name>NyanDark 40k - Space Maids</name>
 	<author>Phonicmas, Grim Cheese and Mewn Goddess</author>
-	<modVersion>1.0.9</modVersion>
+	<modVersion>1.0.11</modVersion>
 	<supportedVersions>
 		<li>1.6</li>
+		<li>1.7</li>
 	</supportedVersions>
 	<packageId>Phonicmas.RimDark.SpaceMaids</packageId>
 	<description>

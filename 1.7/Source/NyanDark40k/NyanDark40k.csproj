@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <RootNamespace>NyanDark40k</RootNamespace>
+        <AssemblyName>NyanDark40k</AssemblyName>
+        <LangVersion>latest</LangVersion>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+        <ProjectGuid>{8C2FE237-467B-4B88-BE4B-1427F773ECEB}</ProjectGuid>
+        <Configurations>Release</Configurations>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+        <OutputPath>../../Assemblies/</OutputPath>
+        <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+        <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+        <GenerateDependencyFile>false</GenerateDependencyFile>
+        <DebugType>none</DebugType>
+        <Optimize>true</Optimize>
+        <DefineConstants>TRACE</DefineConstants>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="0Harmony">
+          <HintPath>..\..\..\..\..\..\..\workshop\content\294100\2009463077\1.7\Assemblies\0Harmony.dll</HintPath>
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Assembly-CSharp">
+            <HintPath>..\..\..\..\..\Assembly-CSharp.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="Core40k">
+          <HintPath>..\..\..\..\Rimdark40kFramework\1.7\Assemblies\Core40k.dll</HintPath>
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Genes40k">
+          <HintPath>..\..\..\..\Rimdark40kMankindsFinest\1.7\Assemblies\Genes40k.dll</HintPath>
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="UnityStubs">
+            <HintPath>..\..\..\..\..\UnityStubs.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="VEF">
+          <HintPath>..\..\..\..\..\..\..\workshop\content\294100\2023507013\1.6\Assemblies\VEF.dll</HintPath>
+          <Private>False</Private>
+        </Reference>
+    </ItemGroup>
+</Project>
